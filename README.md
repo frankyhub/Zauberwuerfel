@@ -23,7 +23,7 @@ Der Zauberwürfel oder auch Rubik´s Cube, ist ein Drehpuzzle, das 1974 von dem 
 
 ## Der Zauberwürfel
 
-<img src="pic/zauberwuerfel" width="500"> 
+<img src="pic/zauberwuerfel.png" width="500"> 
 <br> <br>
 
 
@@ -39,7 +39,7 @@ Der Zauberwürfel oder auch Rubik´s Cube, ist ein Drehpuzzle, das 1974 von dem 
 
 ## Der Zauberwürfel Schnittdarstellung und Innenteile
 
-<img src="pic/wuerfel3" width="500"> 
+<img src="pic/wuerfel3.png" width="500"> 
 <br> <br>
 
 
@@ -47,7 +47,7 @@ Der Zauberwürfel oder auch Rubik´s Cube, ist ein Drehpuzzle, das 1974 von dem 
 
 ## Der Zauberwürfel Explosionsdarstellung
 
-<img src="pic/wuerfel11" width="500"> 
+<img src="pic/wuerfel11.png" width="500"> 
 <br> <br>
 
 
@@ -56,7 +56,7 @@ Der Zauberwürfel oder auch Rubik´s Cube, ist ein Drehpuzzle, das 1974 von dem 
 
 ## Der Zauberwürfel Innenteile einzeln
 
-<img src="pic/wuerfel2" width="500"> 
+<img src="pic/wuerfel2.png" width="500"> 
 <br> <br>
 
 
@@ -65,7 +65,7 @@ Der Zauberwürfel oder auch Rubik´s Cube, ist ein Drehpuzzle, das 1974 von dem 
 ## Der Zauberwürfel Innenteil Schnittdarstellung
 
 
-<img src="pic/zauberw%C3%BCrfelinnen" width="500"> 
+<img src="pic/zauberw%C3%BCrfelinnen.png" width="500"> 
 <br> <br>
 
 
@@ -73,7 +73,7 @@ Der Zauberwürfel oder auch Rubik´s Cube, ist ein Drehpuzzle, das 1974 von dem 
 
 ## Der Zauberwürfel-Ständer
 
-<img src="pic/zauberwuerfelstaender" width="500"> 
+<img src="pic/zauberwuerfelstaender.png" width="500"> 
 <br> <br>
 
 
